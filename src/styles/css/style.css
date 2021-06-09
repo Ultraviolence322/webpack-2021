@@ -1,0 +1,18 @@
+@import url('@/styles/css/fonts.css');
+
+body {
+  font-family: 'Roboto';
+  background-color: pink;
+}
+
+h1 {
+  padding-top: 60px;
+}
+
+.img {
+  background-image: url('@/assets/webpack123.png');
+  width: 600px;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
